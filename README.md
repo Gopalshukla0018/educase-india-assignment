@@ -33,8 +33,7 @@ https://educase-india-assignment-1fcr.vercel.app/
 - **React Icons** (for icons like camera)  
 - **Netlify / Vercel** (for deployment and hosting)
 
----
-``
+```
 ## 📁 Project Structure
 popx-assignment/
 │
@@ -47,16 +46,12 @@ popx-assignment/
 ├── .gitignore
 ├── README.md
 └── package.json
-
-``
-
----
-
+```
 ## 🧪 How to Run Locally
 
 1. **Clone the repository**
 
-```bash
+bash
 git clone https://github.com/yourusername/popx-assignment.git
 cd popx-assignment
 Install dependencies (includes React Router DOM, Framer Motion, React Icons)
@@ -91,6 +86,10 @@ Icons are from React Icons, such as the camera icon for profile image upload.
 
 
 <img width="318" height="627" alt="Screenshot 2025-09-04 040736" src="https://github.com/user-attachments/assets/3a8ad985-17a5-4afa-b5a5-b5cdd212ecb8" />
+
+<img width="297" height="632" alt="Screenshot 2025-09-04 040802" src="https://github.com/user-attachments/assets/c31c3237-9eed-4005-98e5-b4551779bf44" />
+<img width="325" height="624" alt="Screenshot 2025-09-04 040749" src="https://github.com/user-attachments/assets/a7df17ad-4bbd-4437-9529-817787f10843" />
+<img width="336" height="631" alt="Screenshot 2025-09-04 041035" src="https://github.com/user-attachments/assets/ae463796-d675-4241-8045-a082093211cf" />
 
 ✍️ Author
 Gopal Shukla
