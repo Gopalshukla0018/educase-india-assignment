@@ -6,7 +6,7 @@ This is a pixel-perfect React JS implementation of the PopX UI assignment based 
 ---
 
 ## 🚀 Live Demo
-
+https://educase-india-assignment-1fcr.vercel.app/
 
 
 ---
@@ -49,8 +49,7 @@ popx-assignment/
 ├── README.md
 └── package.json
 
-yaml
-Copy code
+
 
 ---
 
@@ -73,7 +72,7 @@ Copy code
 npm run dev
 Open the app in your browser
 
-Usually at: http://localhost:3000 or the address shown in the terminal.
+Usually at: http://localhost:5173 or the address shown in the terminal.
 
 📌 Important Notes
 No backend required — all data is saved in browser localStorage.
@@ -89,8 +88,17 @@ Navigation uses React Router DOM to enable SPA-style routing without page reload
 Icons are from React Icons, such as the camera icon for profile image upload.
 
 🖼️ Screenshots
-<!-- Add your project screenshots here -->
-Example:
+<!--
+
+<img width="336" height="631" alt="Screenshot 2025-09-04 041035" src="https://github.com/user-attachments/assets/4f7c63bd-1cf8-4e32-b86c-9f47e5046c8c" />
+<img width="297" height="632" alt="Screenshot 2025-09-04 040802" src="https://github.com/user-attachments/assets/01eae153-aa54-474d-b05d-a0dfcd5a463b" />
+<img width="325" height="624" alt="Screenshot 2025-09-04 040749" src="https://github.com/user-attachments/assets/0e520f52-7855-4730-9874-67de3bafe8c4" />
+<img width="318" height="627" alt="Screenshot 2025-09-04 040736" src="https://github.com/user-attachments/assets/3dcb1611-f57d-486d-a8d1-512cfdb02b82" />
+
+
+
+ -->
+
 
 
 
