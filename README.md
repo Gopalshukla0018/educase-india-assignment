@@ -34,9 +34,8 @@ https://educase-india-assignment-1fcr.vercel.app/
 - **Netlify / Vercel** (for deployment and hosting)
 
 ---
-
+``
 ## 📁 Project Structure
-
 popx-assignment/
 │
 ├── public/
@@ -49,7 +48,7 @@ popx-assignment/
 ├── README.md
 └── package.json
 
-
+``
 
 ---
 
@@ -88,20 +87,10 @@ Navigation uses React Router DOM to enable SPA-style routing without page reload
 Icons are from React Icons, such as the camera icon for profile image upload.
 
 🖼️ Screenshots
-<!--
-
-<img width="336" height="631" alt="Screenshot 2025-09-04 041035" src="https://github.com/user-attachments/assets/4f7c63bd-1cf8-4e32-b86c-9f47e5046c8c" />
-<img width="297" height="632" alt="Screenshot 2025-09-04 040802" src="https://github.com/user-attachments/assets/01eae153-aa54-474d-b05d-a0dfcd5a463b" />
-<img width="325" height="624" alt="Screenshot 2025-09-04 040749" src="https://github.com/user-attachments/assets/0e520f52-7855-4730-9874-67de3bafe8c4" />
-<img width="318" height="627" alt="Screenshot 2025-09-04 040736" src="https://github.com/user-attachments/assets/3dcb1611-f57d-486d-a8d1-512cfdb02b82" />
 
 
 
- -->
-
-
-
-
+<img width="318" height="627" alt="Screenshot 2025-09-04 040736" src="https://github.com/user-attachments/assets/3a8ad985-17a5-4afa-b5a5-b5cdd212ecb8" />
 
 ✍️ Author
 Gopal Shukla
