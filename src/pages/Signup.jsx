@@ -83,7 +83,7 @@ export default function Signup() {
           {/* Full Name */}
           <div className="relative mt-5">
             <label className="absolute -top-2 left-3 bg-gray-50 px-1 text-[14px] text-[#6C25FF]">
-              Full Name*
+             Full Name<span className="text-red-500">*</span>
             </label>
             <input
               name="fullName"
@@ -99,7 +99,7 @@ export default function Signup() {
           {/* Phone */}
           <div className="relative mt-4">
             <label className="absolute -top-2 left-3 bg-gray-50 px-1 text-[14px] text-[#6C25FF]">
-              Phone Number*
+              Phone Number<span className="text-red-500">*</span>
             </label>
             <input
               name="phone"
@@ -115,7 +115,7 @@ export default function Signup() {
           {/* Email */}
           <div className="relative mt-4">
             <label className="absolute -top-2 left-3 bg-gray-50 px-1 text-[14px] text-[#6C25FF]">
-              Email Address*
+              Email Address <span className="text-red-500">*</span>
             </label>
             <input
               name="email"
@@ -131,7 +131,7 @@ export default function Signup() {
           {/* Password */}
           <div className="relative mt-4">
             <label className="absolute -top-2 left-3 bg-gray-50 px-1 text-[14px] text-[#6C25FF]">
-              Password*
+              Password <span className="text-red-500">*</span>
             </label>
             <input
               name="password"
@@ -147,7 +147,7 @@ export default function Signup() {
           {/* Company */}
           <div className="relative mt-4">
             <label className="absolute -top-2 left-3 bg-gray-50 px-1 text-[14px] text-[#6C25FF]">
-              Company Name
+              Company Name 
             </label>
             <input
               name="company"
