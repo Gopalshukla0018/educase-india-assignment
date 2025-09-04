@@ -52,8 +52,8 @@ popx-assignment/
 1. **Clone the repository**
 
 bash
-git clone https://github.com/yourusername/popx-assignment.git
-cd popx-assignment
+git clone https://github.com/Gopalshukla0018/educase-india-assignment
+cd educase-india-assignment
 Install dependencies (includes React Router DOM, Framer Motion, React Icons)
 
 bash
